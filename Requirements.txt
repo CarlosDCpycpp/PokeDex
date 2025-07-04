@@ -1,5 +1,5 @@
 ------------------------------------------
 Requirements:
-  - Pandas installed for the Pokemon.pandas property.
+  - Pandas installed.
 
 ------------------------------------------
